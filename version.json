@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "minVersion": "0.0.1",
+  "releaseDate": "2025-01-01",
+  "releaseNotes": "https://github.com/sciorex/sciorex/releases/latest",
+  "downloads": {
+    "windows": {
+      "installer": "https://github.com/sciorex/sciorex/releases/latest/download/Sciorex-Setup.exe",
+      "portable": "https://github.com/sciorex/sciorex/releases/latest/download/Sciorex-Portable.exe"
+    },
+    "macos": {
+      "arm64": "https://github.com/sciorex/sciorex/releases/latest/download/Sciorex-arm64.dmg",
+      "x64": "https://github.com/sciorex/sciorex/releases/latest/download/Sciorex-x64.dmg"
+    },
+    "linux": {
+      "appimage": "https://github.com/sciorex/sciorex/releases/latest/download/Sciorex.AppImage",
+      "deb": "https://github.com/sciorex/sciorex/releases/latest/download/Sciorex.deb"
+    }
+  },
+  "forceUpdate": false,
+  "forceUpdateMessage": ""
+}

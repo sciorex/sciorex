@@ -1,0 +1,57 @@
+Copyright (c) 2024-2025 Sciorex. All Rights Reserved.
+
+SCIOREX SOFTWARE LICENSE
+
+This repository contains:
+1. Documentation, templates, and metadata files - Licensed under MIT (see below)
+2. Application binaries (in Releases) - Proprietary, see EULA below
+
+================================================================================
+PART 1: MIT LICENSE (for documentation and metadata files only)
+================================================================================
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the documentation and metadata files in this repository, to deal in such
+files without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the documentation files.
+
+================================================================================
+PART 2: END USER LICENSE AGREEMENT (for Sciorex Application)
+================================================================================
+
+The Sciorex application binaries distributed through this repository's Releases
+are proprietary software. By downloading or using the Sciorex application, you
+agree to the following terms:
+
+1. LICENSE GRANT
+   Sciorex grants you a limited, non-exclusive, non-transferable license to
+   use the application for personal or commercial purposes.
+
+2. RESTRICTIONS
+   You may not:
+   - Reverse engineer, decompile, or disassemble the application
+   - Modify, adapt, or create derivative works of the application
+   - Redistribute, sell, or sublicense the application
+   - Remove or alter any proprietary notices or labels
+
+3. INTELLECTUAL PROPERTY
+   The application and all copies remain the property of Sciorex. This license
+   does not grant you any rights to trademarks, service marks, or trade names.
+
+4. NO WARRANTY
+   THE APPLICATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL SCIOREX BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY ARISING FROM THE USE OF THE APPLICATION.
+
+6. TERMINATION
+   This license terminates automatically if you violate any of these terms.
+
+For questions about licensing, contact: legal@sciorex.com

@@ -40,4 +40,4 @@ By submitting any contribution (including opening an issue, pull request, or pro
 
 ---
 
-If you have questions about this Agreement, please open an issue or contact us through our [Discord](https://discord.gg/sciorex).
+If you have questions about this Agreement, please open an issue or contact us through our [Discord](https://discord.gg/zSjPjA5j).

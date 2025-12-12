@@ -21,14 +21,22 @@
   <a href="https://docs.sciorex.com">Documentation</a> •
   <a href="https://sciorex.com/#download">Download</a> •
   <a href="https://x.com/sciorex">Twitter</a> •
-  <a href="https://discord.gg/sciorex">Discord</a>
+  <a href="https://discord.gg/zSjPjA5j">Discord</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://docs.sciorex.com/images/hero-dashboard.png" alt="Sciorex Screenshot" width="800" />
+  <img src="https://sciorex.com/screenshots/hero-dashboard.png" alt="Sciorex Dashboard" width="800" />
 </p>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://sciorex.com/screenshots/showcase-chat.png" alt="AI Chat" width="100%"/><br/><strong>AI Chat</strong></td>
+    <td align="center"><img src="https://sciorex.com/screenshots/showcase-flow.png" alt="Flow Editor" width="100%"/><br/><strong>Flow Editor</strong></td>
+    <td align="center"><img src="https://sciorex.com/screenshots/showcase-kanban.png" alt="Kanban Board" width="100%"/><br/><strong>Kanban Board</strong></td>
+  </tr>
+</table>
 
 ---
 
@@ -108,7 +116,7 @@ Found a bug or have a feature request? [Open an issue](https://github.com/sciore
 - **Website**: [sciorex.com](https://sciorex.com)
 - **Documentation**: [docs.sciorex.com](https://docs.sciorex.com)
 - **Twitter**: [@sciorex](https://x.com/sciorex)
-- **Discord**: [discord.gg/sciorex](https://discord.gg/sciorex)
+- **Discord**: [discord.gg/zSjPjA5j](https://discord.gg/zSjPjA5j)
 
 ## License
 

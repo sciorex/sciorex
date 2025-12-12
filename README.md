@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>The King of Knowledge</strong><br>
-  AI Agent Orchestration Platform
+  AI Agent Orchestration for Development & Research
 </p>
 
 <p align="center">
@@ -34,19 +34,39 @@
 
 ## What is Sciorex?
 
-Sciorex is a desktop application for orchestrating AI agent swarms, designing research workflows, and tracking everything with powerful ticket integration. Built for developers and researchers who want to harness the power of AI agents locally.
+Sciorex is your **AI-powered companion** that works alongside your favorite IDE. It's not a replacement for VS Code, Cursor, or any other editor — it's the **command center** where AI agents do the heavy lifting while you stay in control.
+
+**For developers:** Agents read, write, and edit files in your codebase. They implement features, fix bugs, and refactor code. You review the changes and continue working in your IDE.
+
+**For researchers:** Build automated pipelines for paper fetching, summarization, hypothesis generation, and knowledge synthesis.
+
+**For teams:** Track work with tickets and epics. Link AI sessions to tasks so everyone sees what the agents did and why.
+
+**For writers:** Create specialized agents for drafting, editing, fact-checking, and formatting. Chain them together for complete content workflows.
+
+**For data analysts:** Explore datasets, generate visualizations, and build analysis pipelines with agents that understand your data.
+
+**For students:** Organize notes, research topics, and get help understanding complex subjects with personalized AI tutors.
+
+**For consultants:** Automate client research, competitive analysis, and report generation. Keep everything organized by project.
+
+**For journalists:** Investigate stories with agents that dig through sources, cross-reference facts, and help uncover connections.
+
+**For you:** Whatever your workflow, Sciorex adapts. Create the agents you need, design the pipelines you want, and let AI handle the rest.
 
 ### Key Features
 
 - **AI Agent Orchestration** - Create specialized agents with custom prompts, tool permissions, and personalities
+- **Code Editing** - Agents can create, modify, and refactor files in your codebase
 - **Visual Flow Editor** - Design multi-agent pipelines with conditions, loops, and parallel execution
+- **Research Pipelines** - Automate paper fetching, summarization, and insight extraction
 - **Ticket & Kanban** - Track work with tickets, epics, and a drag-and-drop Kanban board
 - **Extended Thinking** - Configure Claude's thinking depth from light reasoning to deep analysis
 - **Git Worktrees** - Isolate code changes per session - experiment without affecting your main branch
 - **Multi-Model Comparison** - Send the same prompt to Opus, Sonnet, and Haiku simultaneously
 - **Session Branching** - Fork conversations to explore different approaches
 - **MCP Integration** - Built-in MCP servers for tickets, user interactions, and resource management
-- **100% Local & Private** - All data in `.sciorex/` and `.tickets/` - commit to Git or keep private
+- **100% Local & Private** - All data stays on your machine - commit to Git or keep private
 
 ## Download
 

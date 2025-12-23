@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minVersion": "0.0.1",
-  "releaseDate": "2025-12-20",
+  "releaseDate": "2025-12-23",
   "releaseNotes": "https://github.com/sciorex/sciorex/releases/latest",
   "downloads": {
     "windows": {
